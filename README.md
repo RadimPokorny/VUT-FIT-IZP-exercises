@@ -1,0 +1,2 @@
+# VUT FIT IZP - exercises
+ 
